@@ -1,6 +1,6 @@
 # Hi There 🐺
 
-_🎓Systems Engineer 💻 Web Developer⚡I create amazing web experiences 🔥 Documenting my journey_
+_✌🏻 developer | athlete | dreamer 🖤 1% better every day 🪐 Barcelona, Spain_
 
 ## My Content 🚀
 
