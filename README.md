@@ -10,8 +10,9 @@ Made with 💖 by - [Jose Romero](https://romezvz.com/)
 
 ### Social networks
 
-* **GitHub** - *Repositories of my latest projects* - [@romezvz](https://github.com/romezvz)
-* **LinkedIn** - *Professional developer profile* - [@romezvz](https://www.linkedin.com/in/romezvz/)
-* **Instagram** - *Documenting my journey* - [@romezvz](https://www.instagram.com/romezvz/)
-* **Twitter** - *Random comments and more* - [@romezvz](https://twitter.com/romezvz)
-* **Strava** - *One of my personal hobbies* - [@romezvz](https://www.strava.com/athletes/165467449)
+* **LinkedIn** - *Professional developer profile* - [@romezvz](https://www.linkedin.com/in/romezvz/) 💼
+* **GitHub** - *Repositories of my latest projects* - [@romezvz](https://github.com/romezvz) 💻
+* **Instagram** - *Documenting my journey* - [@romezvz](https://www.instagram.com/romezvz/) 🎞️
+* **Twitter** - *Random comments and more* - [@romezvz](https://twitter.com/romezvz) ✒️
+* **Threads** - *More pics and life* - [@romezvz](https://www.threads.com/@romezvz) 🗿
+* **Strava** - *One of my personal hobbies* - [@romezvz](https://www.strava.com/athletes/165467449) 💪
