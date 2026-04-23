@@ -1,6 +1,6 @@
 # Hi There 🐺
 
-_✌🏻 developer | athlete | dreamer 🖤 1% better every day 🪐 Barcelona, Spain_
+_✌🏻 developer | athlete | dreamer 🖤 1% better every day 🪐 Barcelona, Spain._
 
 ## My Content 🚀
 
